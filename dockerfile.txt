@@ -1,0 +1,13 @@
+demo.creditrisk Dockerfile
+
+FROM $com.sap.sles.base
+RUN python3 -m pip install --user pandas
+RUN python3 -m pip install --user statsmodels
+RUN python3 -m pip install --user pmdarima
+RUN python3 -m pip install --user sklearn
+
+{
+    "sles": "",
+    "python36": "",
+    "CreditRisk": ""
+}

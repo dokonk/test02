@@ -1,0 +1,16 @@
+
+X-Requested-With: XMLHttpRequest
+
+{
+  "Education": 1,
+  "ApplicantIncome": 500,
+  "CoapplicantIncome": 0,
+  "LoanAmount": 146.4122,
+  "Loan_Amount_Term": 360,
+  "Credit_History": 1,
+  "Property_Area": 2,
+  "Gender": 1,
+  "Self_Employed": 0,
+  "Dependents": 0,
+  "Married": 0
+}
